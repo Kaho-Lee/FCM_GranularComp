@@ -1,0 +1,19 @@
+dataset from: https://archive.ics.uci.edu/ml/machine-learning-databases/breast-cancer-wisconsin/
+
+1. breast cancer data
+  data points: train 699 test 0
+  experimental results: first cluster %  0.32761087267525035  second cluster %  0.6738197424892703
+  real distribution: Benign: 458 (65.5%), Malignant: 241 (34.5%), 699 total
+
+2. WDBC
+  data points: train 569 test 0
+  experimental results: first cluster %  0.6572934973637962  second cluster %  0.3427065026362039
+  Class distribution: 357 (62.7%) benign, 212 (37.3%) malignant, 569 total
+
+3. breast cancer data (row_mean versus 0 for missing features)
+  data points: train 699 test 0
+  experimental results: first cluster %  470(mean)  second cluster %  229(mean)
+  real distribution: Benign: 458 (65.5%), Malignant: 241 (34.5%), 699 total
+
+Note: the % of cluster is calculated by the number of data points belonging the cluster divided by
+the total datapoint.
