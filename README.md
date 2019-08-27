@@ -1,7 +1,8 @@
 # FCM_GranularComp
 DRA in 2018Fall
 
-Granular Computing on data analysis based on Fuzzy C-mean Clustering
+Granular Computing on data analysis based on Fuzzy C-mean Clustering with using
+python3
 
 FCM_clustering_lowDim.py is the algrithm for two dimensional dataset
 
