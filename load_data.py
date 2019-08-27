@@ -2,6 +2,11 @@ from __future__ import division  # floating point division
 import math
 import numpy as np
 
+'''
+Modified from the CMPUT466 in UAlberta Assignment barebones code
+https://marthawhite.github.io/mlcourse/schedule.html
+'''
+
 ####### Main load functions
 def load_breast_cancer(trainsize, testsize):
     """ A blogging dataset """
