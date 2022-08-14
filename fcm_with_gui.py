@@ -8,7 +8,7 @@ import skfuzzy as fuzz
 from scipy.spatial.distance import cdist
 from scipy import optimize
 import matplotlib
-matplotlib.use("TkAgg")
+matplotlib.use('TkAgg')
 import matplotlib.pyplot as plt
 import matplotlib.cm as cm
 from utils import *
