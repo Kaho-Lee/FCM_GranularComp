@@ -1,5 +1,5 @@
 # FCM_GranularComp
-DRA in 2018Fall sponsored by Faculty of Engineering, University of Alberta
+DRA in 2018Fall, Faculty of Engineering, University of Alberta
 
 Granular Computing on data analysis based on Fuzzy C-mean Clustering with using
 python3
